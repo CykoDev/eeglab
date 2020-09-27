@@ -1,4 +1,4 @@
-# SmartEEG
+# eeglab
 
 A new Flutter project.
 
