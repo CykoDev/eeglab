@@ -1,3 +1,6 @@
+include ':smartingCommon'
+include ':smartingAndroidServices'
+include ':smartingAndroidSensors'
 include ':app'
 
 def localPropertiesFile = new File(rootProject.projectDir, "local.properties")
