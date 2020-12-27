@@ -40,7 +40,6 @@ class PairingScreen extends StatelessWidget {
             padding: const EdgeInsets.all(10.0),
             child: RaisedButton(
               child: Text('Connect to Device'),
-              color: Colors.green,
               onPressed: () =>
                   Navigator.of(context).pushNamed(HeatmapScreen.routeName),
             ),
